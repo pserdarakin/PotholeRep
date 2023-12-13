@@ -20,6 +20,12 @@ Run the app on a compatible device to capture or upload images for pothole detec
 
 License: This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. For more details, see the LICENSE file.
 
+Professional Network and Portfolio
+
+This project is not just a demonstration of technical skills in machine learning and mobile app development, but also an exploration into academic writing and publication. Although my initial submission to arXiv was not accepted, this experience has been invaluable in understanding the academic publication process and has provided insights for future research dissemination. 
+
+Feel free to connect with me on LinkedIn (linkedin.com/in/pserdarakin/) to discuss this project, potential collaborations, or job opportunities. My journey from conceptualization to development and attempted publication of this work illustrates my commitment to continual learning and professional growth.
+
 Acknowledgements:
 I want to give my deepest thanks to my supervisor, Prof Xiaohong Gao. She has been a constant source of support and has guided me throughout this entire dissertation. Her wisdom and experience have been very important in helping me do my best work.
 
