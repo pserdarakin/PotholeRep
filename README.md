@@ -1,7 +1,7 @@
 # PotholeRep
 An android application to detect and classify pothole based on image, and then report to the database
 
-https://github.com/pserdarakin/PotholeRep/assets/62178465/444e6108-795c-4e33-b040-1db178f9ca27
+https://github.com/pserdarakin/PotholeRep/assets/62178465/e3dc4882-35b3-4d6e-b718-b625735b8101
 
 
 ## Project Title: 
