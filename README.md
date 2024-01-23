@@ -1,6 +1,8 @@
 # PotholeRep
 An android application to detect and classify pothole based on image, and then report to the database
 
+(https://github.com/pserdarakin/PotholeRep/blob/main/Screenrecorder-2023-10-09-10-57-24-519.mp4)
+
 ## Project Title: 
 Pothole Detection and Severity Classification: A Mobile Application of Image Recognition and Machine Learning for Improved Road Maintenance
 
